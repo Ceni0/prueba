@@ -15,6 +15,7 @@ public class Main {
 		//Este for es para asegurarnos que ordena bien los nombres pero se podría quitar.
 		for (int i=0;i<nombres.length;i++) {
 			System.out.println(nombres[i]);
+			System.out.println("esto es una prueba de github");
 		}
 		System.out.println("Anota un nombre para ver si esta en la  lista:");
 		String otro=sc.nextLine();
